@@ -1,0 +1,6 @@
+#aws command
+
+login id :  ec2-user
+
+sudo yum update
+
