@@ -4,3 +4,10 @@ login id :  ec2-user
 
 sudo yum update
 
+-----------------------
+
+git config --list
+
+$ git config --global user.name "Bob"
+$ git config --global user.email "bob@example.com"
+
