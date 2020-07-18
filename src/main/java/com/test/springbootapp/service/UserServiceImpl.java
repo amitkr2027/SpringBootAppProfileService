@@ -1,4 +1,4 @@
-package com.test.springbootexample.service;
+package com.test.springbootapp.service;
 
 public class UserServiceImpl implements UserService{
 

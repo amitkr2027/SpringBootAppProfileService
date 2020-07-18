@@ -1,4 +1,4 @@
-package com.test.springbootexample.controller;
+package com.test.springbootapp.controller;
 
 import javax.servlet.http.HttpServletResponse;
 

@@ -1,4 +1,4 @@
-package com.test.springbootexample.start;
+package com.test.springbootapp.start;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.EnableAutoConfiguration;

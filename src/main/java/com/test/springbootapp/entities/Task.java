@@ -1,4 +1,4 @@
-package com.test.springbootexample.entities;
+package com.test.springbootapp.entities;
 
 import javax.persistence.Entity;
 
